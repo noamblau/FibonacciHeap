@@ -1,5 +1,5 @@
-//Noam Blau (noamblau) - 207145293
-//Ido Schwartz (idoschwartz) - 208601781
+//Noam Blau
+//Ido Schwartz
 
 /**
  * FibonacciHeap
